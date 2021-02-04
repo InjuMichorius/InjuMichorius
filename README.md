@@ -9,6 +9,7 @@ I'm always trying to become the best version of myself. I love to play guitar, d
 
 #### What I'm focusing on
 Currently trying to get a portfolio website online
+
 I'm also following a minor Web Development where I learn to master CSS, Javascript and HTML.
 
 #### Social links
