@@ -12,7 +12,7 @@ Currently trying to get a portfolio website online
 I'm also following a minor Web Development where I learn to master CSS, Javascript and HTML.
 
 ## Social links
-<a href="inju.nl"><img src="websiteButton.jpg" align="left" height="100" width="483" ></a>
+<a href="inju.nl"><img src="websiteButton.jpg" align="left" height="50" width="240" ></a>
 ![Social media link to my e-mail adress](e-mailButton.jpg)
 ![Social media linm to my LinkedIn](linkedInButton.jpg)
 ![Social media link to my Instagram](instagramButton.jpg)
