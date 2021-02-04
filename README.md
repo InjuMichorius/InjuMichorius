@@ -12,10 +12,10 @@ Currently trying to get a portfolio website online
 I'm also following a minor Web Development where I learn to master CSS, Javascript and HTML.
 
 ## Social links
-<a href="inju.nl"><img src="e-mailButton.jpg" alt="Social media link to my e-mail adress" align="left" height="30" width="120" ></a>
-<a href="inju.nl"><img src="linkedInButton.jpg" alt="Social media linm to my LinkedIn" align="left" height="55" width="240" ></a>
-<a href="inju.nl"><img src="instagramButton.jpg" alt="Social media link to my Instagram" align="left" height="55" width="240" ></a>
-<a href="inju.nl"><img src="websiteButton.jpg" alt="Link to my personal website!" align="left" height="55" width="240" ></a>
+<a href="inju.nl"><img src="e-mailButton.jpg" alt="Social media link to my e-mail adress" align="left" height="45" width="180" ></a>
+<a href="inju.nl"><img src="linkedInButton.jpg" alt="Social media linm to my LinkedIn" align="left" height="45" width="180" ></a>
+<a href="inju.nl"><img src="instagramButton.jpg" alt="Social media link to my Instagram" align="left" height="45" width="180" ></a>
+<a href="inju.nl"><img src="websiteButton.jpg" alt="Link to my personal website!" align="left" height="45" width="180" ></a>
 <!--
 **InjuMichorius/InjuMichorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
