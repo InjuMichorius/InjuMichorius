@@ -12,7 +12,7 @@ Currently trying to get a portfolio website online
 I'm also following a minor Web Development where I learn to master CSS, Javascript and HTML.
 
 ## Social links
-
+![alt text](linkedinButton.jpg)
 <!--
 **InjuMichorius/InjuMichorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
