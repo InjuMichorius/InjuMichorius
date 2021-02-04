@@ -1,14 +1,17 @@
 # Hey, I'm Inju Michorius 👋
-I want to work as a front-end developer with UI/UX design skills. I'm based in Amsterdam.
+I want to work as a front-end developer with UI/UX design skills.
 
 achtergrond
 
 > “It’s through mistakes that you actually can grow. You have to get bad in order to get good.” –Paula Scher
 
 I'm always trying to become the best version of myself. I love to play guitar, drink a cold one with the boys and play videogames.
+
 ## What I'm focusing on
 Currently trying to get a portfolio website online
 I'm also following a minor Web Development where I learn to master CSS, Javascript and HTML.
+
+## Social links
 
 <!--
 **InjuMichorius/InjuMichorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
