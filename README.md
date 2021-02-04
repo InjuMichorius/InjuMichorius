@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm Inju Michorius 👋
+I want to work as a front-end developer with UI/UX design skills. I'm based in Amsterdam.
+
+fillertext ;)
+“Live in the leading—the spaces in between the rules.” –Stefan Mumaw
+
 
 <!--
 **InjuMichorius/InjuMichorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
