@@ -1,4 +1,4 @@
-### Hey, I'm Inju Michorius 👋
+## Hey, I'm Inju Michorius 👋
 I want to work as a front-end developer with UI/UX design skills.
 
 achtergrond
@@ -7,12 +7,12 @@ achtergrond
 
 I'm always trying to become the best version of myself. I love to play guitar, drink a cold one with the boys and play videogames.
 
-#### What I'm focusing on
+### What I'm focusing on
 Currently trying to get a portfolio website online
 
 I'm also following a minor Web Development where I learn to master CSS, Javascript and HTML.
 
-#### Social links
+### Social links
 <a href="inju.nl"><img src="e-mailButton.jpg" alt="Social media link to my e-mail adress" align="left" height="45" width="180" ></a>
 <a href="inju.nl"><img src="linkedInButton.jpg" alt="Social media linm to my LinkedIn" align="left" height="45" width="180" ></a>
 <a href="inju.nl"><img src="instagramButton.jpg" alt="Social media link to my Instagram" align="left" height="45" width="180" ></a>
