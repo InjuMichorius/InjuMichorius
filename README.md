@@ -13,6 +13,8 @@ Currently trying to get a portfolio website online
 
 I'm also following a minor Web Development where I learn to master HTML, CSS and Javascript.
 
+[![Inju Michorius's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius)](https://github.com/InjuMichorius/github-readme-stats)
+
 ### Social links
 <a href="mailto:inju@hotmail.nl"><img src="e-mailButton.jpg" alt="Social media link to my e-mail adress" align="left" height="45" width="180" ></a>
 <a href="https://www.linkedin.com/in/jumichorius/"><img src="linkedInButton.jpg" alt="Social media linm to my LinkedIn" align="left" height="45" width="180" ></a>
