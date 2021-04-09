@@ -1,13 +1,14 @@
-## <p align="center">Hey, I'm Inju Michorius 👋</p>
+# <p align="center">Hey, I'm Inju Michorius 👋</p>
+### <p align="center">I'm a third year communication and Multimedia Design student, learning to become a front-end developer with UI/UX skills</p>
 I want to work as a front-end developer with UI/UX design skills.
 
 Hello, my name is Inju Michorius and I'm a third year Communication and Multimedia Design student. 
 
 
-> “It’s through mistakes that you actually can grow. You have to get bad in order to get good.” –Paula Scher
+> “It’s through mistakes that you can actually grow. You have to get bad in order to get good.” –Paula Scher
+
 
 I'm always trying to become the best version of myself. I love to play guitar, drink a cold one with the boys and play videogames.
-
 ### What I'm focusing on
 Currently trying to get a portfolio website online
 
