@@ -1,4 +1,4 @@
-## Hey, I'm Inju Michorius 👋
+## <center>Hey, I'm Inju Michorius 👋</center>
 I want to work as a front-end developer with UI/UX design skills.
 
 Hello, my name is Inju Michorius and I'm a third year Communication and Multimedia Design student. 
