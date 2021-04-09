@@ -13,7 +13,7 @@ Currently trying to get a portfolio website online
 
 I'm also following a minor Web Development where I learn to master HTML, CSS and Javascript.
 
-[![Inju Michorius's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjuMichorius&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Inju Michorius's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjuMichorius&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
