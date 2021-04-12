@@ -12,7 +12,3 @@
 * Running a few Instagram pages
 
 ### Social links
-<a href="mailto:inju@hotmail.nl"><img src="e-mailButton.jpg" alt="Social media link to my e-mail adress" align="left" height="45" width="180" ></a>
-<a href="https://www.linkedin.com/in/jumichorius/"><img src="linkedInButton.jpg" alt="Social media linm to my LinkedIn" align="left" height="45" width="180" ></a>
-<a href="https://www.instagram.com/injuux/"><img src="instagramButton.jpg" alt="Social media link to my Instagram" align="left" height="45" width="180" ></a>
-<a href="https://www.inju.nl"><img src="websiteButton.jpg" alt="Link to my personal website!" align="left" height="45" width="180" ></a>
