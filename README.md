@@ -7,8 +7,9 @@
 > “It’s through mistakes that you can actually grow. You have to get bad in order to get good.” –Paula Scher
 
 ## What I'm focusing on
-* Currently trying to get a portfolio website online
-* I'm also following a minor Web Development where I learn to master the web
+* Trying to get a portfolio website online
+* Following a minor Web Development where I learn to master the web
+* Running a few Instagram pages
 
 [![Inju Michorius's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjuMichorius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
