@@ -11,8 +11,6 @@
 * Following a minor Web Development where I learn to master the web
 * Running a few Instagram pages
 
-[![Inju Michorius's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjuMichorius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Social links
 <a href="mailto:inju@hotmail.nl"><img src="e-mailButton.jpg" alt="Social media link to my e-mail adress" align="left" height="45" width="180" ></a>
 <a href="https://www.linkedin.com/in/jumichorius/"><img src="linkedInButton.jpg" alt="Social media linm to my LinkedIn" align="left" height="45" width="180" ></a>
