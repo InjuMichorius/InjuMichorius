@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true&text_color=F9826C)](https://github.com/InjuMichorius/github-readme-stats)">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&text_color=F9826C)](https://github.com/anuraghazra/github-readme-stats)
+[![Inju Michorius' stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&text_color=F9826C)](https://github.com/InjuMichorius/github-readme-stats)
 
 <hr>
 
