@@ -12,6 +12,6 @@
 * Running a few Instagram pages
 
 
-[![Inju Michorius's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InjuMichorius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Inju Michorius's GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats)</p>
 
 ### Find me around the web 🌎
