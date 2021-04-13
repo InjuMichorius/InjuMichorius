@@ -13,6 +13,9 @@
 </div>
 
 <hr>
+[![Inju Michorius GitHub stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&theme=dark)](https://github.com/InjuMichorius/github-readme-stats)
+
+
 
 ## What I'm focusing on
 * Trying to get a portfolio website online
