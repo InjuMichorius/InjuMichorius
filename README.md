@@ -6,10 +6,10 @@
 
 > “It’s through mistakes that you can actually grow. You have to get bad in order to get good.” –Paula Scher
 
-<hr border-top="1px solid blue">
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-         stats)">
+  <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&title_color="blue"&count_private=true&show_icons=true?)](https://github.com/InjuMichorius/github-readme-         stats)">
 </div>
 
 <hr>
