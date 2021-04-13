@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true&text_color="F9826C"?)](https://github.com/InjuMichorius/github-readme-stats)">
+  <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?text_color="F9826C")](https://github.com/InjuMichorius/github-readme-stats)">
 </div>
 
 <hr>
