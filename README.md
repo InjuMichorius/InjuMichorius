@@ -1,12 +1,12 @@
 # <p align="center">Hey, I'm Inju Michorius 👋</p>
-### <p border="center">I'm a third year communication and Multimedia Design student, learning to become a front-end developer with UI/UX skills</p>
+### <p align="center">I'm a third year communication and Multimedia Design student, learning to become a front-end developer with UI/UX skills</p>
 
 ![Gif of a dinosaur game. Dino jumps over trees and ducks under dino-bird](https://github.com/InjuMichorius/InjuMichorius/blob/main/dinoGameREADMECover.gif)
 ![Profile vist counter](https://komarev.com/ghpvc/?username=InjuMichorius)
 
 > “It’s through mistakes that you can actually grow. You have to get bad in order to get good.” –Paula Scher
 
-<hr border-top="blue">
+<hr border-top="1px solid blue">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-         stats)">
