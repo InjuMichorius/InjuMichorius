@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true&text_color=F9826C)](https://github.com/InjuMichorius/github-readme-stats)">
 </div>
 
-[![Inju Michorius' stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true&title_color=F9826C)](https://github.com/InjuMichorius/github-readme-stats)
+[![Inju Michorius' stats](https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true&title_color=F9826C&icon_color=F9826C)](https://github.com/InjuMichorius/github-readme-stats)
 
 <hr>
 
