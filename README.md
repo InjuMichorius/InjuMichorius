@@ -11,6 +11,6 @@
 * Following a minor Web Development where I learn to master the web
 * Running a few Instagram pages
 
-<img align="left" width="100" height="100" src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats)">
+<img align="center" width="100" height="100" src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-stats)">
 
 ### Find me around the web 🌎
