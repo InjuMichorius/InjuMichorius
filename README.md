@@ -8,13 +8,15 @@
 
 <hr color="blue">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-         stats)">
+</div>
+
+<hr>
+
 ## What I'm focusing on
 * Trying to get a portfolio website online
 * Following a minor Web Development where I learn to master the web
 * Running a few Instagram pages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InjuMichorius&count_private=true&show_icons=true?&theme=vue)](https://github.com/InjuMichorius/github-readme-         stats)">
-</div>
 
 ### Find me around the web 🌎
