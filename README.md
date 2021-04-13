@@ -6,7 +6,7 @@
 
 > “It’s through mistakes that you can actually grow. You have to get bad in order to get good.” –Paula Scher
 
-<hr>
+<hr color="blue">
 
 ## What I'm focusing on
 * Trying to get a portfolio website online
