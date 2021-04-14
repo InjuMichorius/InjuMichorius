@@ -23,8 +23,11 @@
 - [ ] Trying to get a portfolio website online
 
 ### <p align=center>Find me around the web 🌎</p>
-<a href="https://www.instagram.com/injuux/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/instagram.jpg" alt="social media button to Instagram" width=300px></a>
-![]()
-![]()
-![]()
-![]()
+<a href="https://www.instagram.com/injuux/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/instagram.jpg" alt="social media button to Instagram" width=100px></a>
+
+<a href="https://www.instagram.com/injuux/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/linkedin.jpg" alt="social media button to LinkedIn" width=80px></a>
+
+<a href="https://www.instagram.com/injuux/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/website.jpg" alt="social media button to my website" width=50px></a>
+
+<a href="https://www.instagram.com/injuux/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/email.jpg" alt="social media button to email" width=10px></a>
+
