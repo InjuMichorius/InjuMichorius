@@ -23,7 +23,7 @@
 - [ ] Trying to get a portfolio website online
 
 ### <p align=center>Find me around the web 🌎</p>
-<a href="google.nl" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/instagram.jpg" alt="social media button to Instagram"></a>
+<a href="https://www.google.com" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/instagram.jpg" alt="social media button to Instagram"></a>
 ![]()
 ![]()
 ![]()
