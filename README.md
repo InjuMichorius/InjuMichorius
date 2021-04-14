@@ -21,4 +21,4 @@
 * Following a minor Web Development where I learn to master the web
 * Running a few Instagram pages
 
-### Find me around the web 🌎
+### <p align=center>Find me around the web 🌎</p>
