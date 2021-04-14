@@ -17,8 +17,14 @@
 
 
 ## What I'm focusing on
-* Trying to get a portfolio website online
-* Following a minor Web Development where I learn to master the web
-* Running a few Instagram pages
+- [x] Following a minor Web Development where I learn to master the web
+- [x] Running a few Instagram pages
+- [ ] Make my GitHub internship-ready
+- [ ] Trying to get a portfolio website online
 
 ### <p align=center>Find me around the web 🌎</p>
+<a href="google.nl" target="_blank">![](https://github.com/InjuMichorius/InjuMichorius/blob/main/instagram.jpg)</a>
+![]()
+![]()
+![]()
+![]()
