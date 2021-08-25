@@ -2,7 +2,7 @@
 ### <p align="center">I'm a last year communication and Multimedia Design student, learning to become a front-end developer with UI/UX skills</p>
 
 ![Gif of a dinosaur game. Dino jumps over trees and ducks under dino-birds](https://github.com/InjuMichorius/InjuMichorius/blob/main/dinoGameREADMECover.gif)
-![Profile vist counter](https://komarev.com/ghpvc/?username=InjuMichorius&color=5194F0)<p align="right">Highscore 9983</p>
+![Profile vist counter](https://komarev.com/ghpvc/?username=InjuMichorius&color=5194F0)<p>Highscore 9983</p>
 
 > “It’s through mistakes that you can actually grow. You have to get bad in order to get good.” –Paula Scher
 
