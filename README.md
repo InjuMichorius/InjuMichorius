@@ -19,7 +19,7 @@
 ## What I'm focusing on
 - [x] Following a minor Web Development where I learn to master the web
 - [x] Running a few Instagram pages
-- [ ] Make my GitHub internship-ready
+- [x] Make my GitHub internship-ready
 - [ ] Trying to get a portfolio website online
 
 ## <p align=center>Find me around the web 🌎</p>
