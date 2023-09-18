@@ -1,5 +1,5 @@
 # <p align="center">Hey, I'm Inju Michorius 👋</p>
-### <p align="center">I'm a last year communication and Multimedia Design student, learning to become a front-end developer with UI/UX skills</p>
+### <p align="center">I'm a front-end developer with UI/UX skills</p>
 
 ![Gif of a dinosaur game. Dino jumps over trees and ducks under dino-birds](https://github.com/InjuMichorius/InjuMichorius/blob/main/dinoGameREADMECover.gif)
 ![Profile vist counter](https://komarev.com/ghpvc/?username=InjuMichorius&color=5194F0)<p>Highscore 9983</p>
@@ -17,10 +17,6 @@
 
 
 ## What I'm focusing on
-- [x] Following a minor Web Development where I learn to master the web
-- [x] Running a few Instagram pages
-- [x] Make my GitHub internship-ready
-- [x] Trying to get a [portfolio website](http://http://ww.inju.nl/) online
 
 ## <p align=center>Find me around the web 🌎</p>
 <p align=center><a href="https://www.instagram.com/injuux/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/instagram.png" alt="social media button to Instagram" width=80px margin=100px></a> <a href="https://www.linkedin.com/in/jumichorius/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/linkedin.png" alt="social media button to LinkedIn" width=80px></a> <a href="https://www.inju.nl/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/Web%201920%20%E2%80%93%201.png" alt="social media button to my website" width=80px></a> <a href="mailto:inju@hotmail.nl" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/email.png" alt="social media button to email" width=80px></a></p>
