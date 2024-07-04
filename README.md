@@ -19,7 +19,7 @@
 ## What I'm focusing on
 - [x] Porfolio development
 - [x] Socket.io game
-- [ ] [Arcade Adventure](injumichorius.github.io/react-doodles/)
+- [ ] [Arcade Adventure](https://injumichorius.github.io/react-doodles)
 
 ## <p align=center>Find me around the web 🌎</p>
 <p align=center><a href="https://www.instagram.com/injuux/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/instagram.png" alt="social media button to Instagram" width=80px margin=100px></a> <a href="https://www.linkedin.com/in/jumichorius/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/linkedin.png" alt="social media button to LinkedIn" width=80px></a> <a href="https://injumichorius.github.io/personal-portfolio/" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/Web%201920%20%E2%80%93%201.png" alt="social media button to my website" width=80px></a> <a href="mailto:inju@hotmail.nl" target="_blank"><img src="https://github.com/InjuMichorius/InjuMichorius/blob/main/email.png" alt="social media button to email" width=80px></a></p>
