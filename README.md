@@ -1,11 +1,8 @@
-# <p align="center">Hey, I'm Inju Michorius 👋</p>
-### <p align="center">I'm a front-end developer with UI/UX skills</p>
+# <h1>Hey, I'm Inju Michorius 👋</h1>
+### <p>I'm a front-end developer with UI/UX skills</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,php,figma,react,vue,nuxtjs,alpinejs,bootstrap,nodejs,express,django,wordpress,mongodb,git,githubactions,gitlab,vercel&perline=6" />
-  </a>
-</p>
+## <p>Skillset</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,php,figma,react,vue,nuxtjs,alpinejs,bootstrap,nodejs,express,django,wordpress,mongodb,git,githubactions,gitlab,vercel&perline=6" />
 
 ![Gif of a dinosaur game. Dino jumps over trees and ducks under dino-birds](https://github.com/InjuMichorius/InjuMichorius/blob/main/dinoGameREADMECover.gif)
 ![Profile vist counter](https://komarev.com/ghpvc/?username=InjuMichorius&color=5194F0)<p>Highscore 9983</p>
