@@ -1,5 +1,6 @@
 # <p align="center">Hey, I'm Inju Michorius 👋</p>
 ### <p align="center">I'm a front-end developer with UI/UX skills</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ![Gif of a dinosaur game. Dino jumps over trees and ducks under dino-birds](https://github.com/InjuMichorius/InjuMichorius/blob/main/dinoGameREADMECover.gif)
 ![Profile vist counter](https://komarev.com/ghpvc/?username=InjuMichorius&color=5194F0)<p>Highscore 9983</p>
