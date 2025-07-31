@@ -2,7 +2,7 @@
 ### <p>I'm a front-end developer with UI/UX skills</p>
 
 ## <p>Skillset</p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,php,figma,react,vue,nuxtjs,alpinejs,bootstrap,nodejs,express,django,wordpress,mongodb,git,githubactions,gitlab,vercel&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,php,figma,react,vue,nuxtjs,alpinejs,bootstrap,nodejs,express,django,wordpress,mongodb,git,gitlab,vercel&perline=10" />
 
 ![Gif of a dinosaur game. Dino jumps over trees and ducks under dino-birds](https://github.com/InjuMichorius/InjuMichorius/blob/main/dinoGameREADMECover.gif)
 ![Profile vist counter](https://komarev.com/ghpvc/?username=InjuMichorius&color=5194F0)<p>Highscore 9983</p>
